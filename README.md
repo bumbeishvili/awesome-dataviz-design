@@ -12,6 +12,7 @@ A curated list of awesome  data visualizations design resources.  Inspired by aw
 
 
 # Articles
+* [10 rules of dashboard design](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2) - Medium article explaining dashboard design rules
 
 # Guides
- * [SunLight style guide](https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf) -  data visualization style guide
+ * [SunLight style guide](https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf) -  Data visualization style guide
