@@ -18,5 +18,6 @@ A **personal** curated list of awesome  data visualizations design resources.  I
  * [SunLight style guide](https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf) -  Data visualization style guide
 
 
-## People
+## Awesome Profiles to follow
 * [Valerio Pellegrini - Behance](https://www.behance.net/valeriopellegrini)
+* [Bureau Oberhaeuser - Behance](https://www.behance.net/Oberhaeuser)
