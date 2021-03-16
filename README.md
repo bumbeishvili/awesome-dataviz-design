@@ -19,4 +19,4 @@ A **personal** curated list of awesome  data visualizations design resources.  I
 
 
 ## People
-* [Valerio Pellegrini](https://www.behance.net/valeriopellegrini)
+* [Valerio Pellegrini - Behance](https://www.behance.net/valeriopellegrini)
