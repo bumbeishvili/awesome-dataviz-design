@@ -21,3 +21,7 @@ A **personal** curated list of awesome  data visualizations design resources.  I
 ## Awesome Profiles to follow
 * [Valerio Pellegrini - Behance](https://www.behance.net/valeriopellegrini)
 * [Bureau Oberhaeuser - Behance](https://www.behance.net/Oberhaeuser)
+
+
+## Kits
+* [Orion Charts](https://gumroad.com/l/orioncharts)
