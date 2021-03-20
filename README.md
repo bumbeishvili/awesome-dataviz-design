@@ -24,4 +24,4 @@ A **personal** curated list of awesome  data visualizations design resources.  I
 
 
 ## Kits
-* [Orion Charts](https://gumroad.com/l/orioncharts)
+* [Orion Charts](https://gumroad.com/l/orioncharts), [figma](https://www.figma.com/file/Iux7Y8FMOYj3JsSF9VQnON/Orion-Demo?node-id=2%3A6)
